@@ -7,7 +7,7 @@ It connects 2 applications together so data and databases can be easily passed b
 
 Express the most popular node web framework.
 
-Express is “unopinionated.” What does that mean?
+Express is “un opinionated.” What does that mean?
 You can insert almost any compatible middleware you like into the request handling chain, in almost any order you like. You can structure the app in one or multiple files, and using any directory structure.
 
 What is a module and why is modularity useful to us as developers?
