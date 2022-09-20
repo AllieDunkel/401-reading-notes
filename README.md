@@ -1,6 +1,6 @@
 # 401-reading-notes
 
-This webpage is going to consist of my reading notes and projects for the **Code 401** class. 
+This webpage is going to consist of my reading notes and projects for the **Code 401** class.
 
 [Reading 01](Reading01.md)
 
