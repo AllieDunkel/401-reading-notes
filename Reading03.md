@@ -2,7 +2,7 @@
 
 ## Review: ES6 Classes
 
-Classes are a template for creating Abstract subclasses or mix-ins.
+Classes are a template for creating objects
 
 Can a class declaration be hoisted?
 Class expressions must be declared before they can be used
