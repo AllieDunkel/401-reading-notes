@@ -25,13 +25,12 @@ primary keys uniquely identify each row in a table and the foreign key column or
 
 How do we treat keywords and parameters differently in SQL syntax?
 
-
 Define normalization within the context of schemas and data.
-The goal of normalized schemas is to avoid storage of duplicate data so that stored data can't become inconsistent. 
+The goal of normalized schemas is to avoid storage of duplicate data so that stored data can't become inconsistent.
 
 Explain the difference between one-to-one, one-to-many, and many-to-many relationships to a non-technical recruiter.
-One-to-one: A record in one table is related to one record in another table. 
+One-to-one: A record in one table is related to one record in another table.
 
-One-to-many: A record in one table is related to many records in another table. 
+One-to-many: A record in one table is related to many records in another table.
 
 Many-to-many: Multiple records in one table are related to multiple records in another table.

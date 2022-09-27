@@ -29,4 +29,3 @@ Authentication is the process of verifying that an individual is who they claim 
 
 How should your error messaging respond (both HTTP and HTML)? Why?
 The application may return a different HTTP Error code depending on the authentication attempt response. It may respond with a 200 for a positive result and a 403 for a negative result. Even though a generic error page is shown to a user, the HTTP response code may differ which can leak information about whether the account is valid or not. It is important because the wrong error code can confuse the user and my it not user friendly
-
