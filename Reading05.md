@@ -10,6 +10,6 @@
 
 4. T/ F   Linked list are non linear structure's
 
-5. T/ F Doubly linked list are the simplest type of linked list 
+5. T/ F Doubly linked list are the simplest type of linked list
 
 6. T/F   The Big O is based on 2 factors space and time
